@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Superheroes/static/css/main.f855e6bc.css",
+    "main.js": "/Superheroes/static/js/main.f5ff41b7.js",
+    "static/js/787.779bf328.chunk.js": "/Superheroes/static/js/787.779bf328.chunk.js",
+    "index.html": "/Superheroes/index.html",
+    "main.f855e6bc.css.map": "/Superheroes/static/css/main.f855e6bc.css.map",
+    "main.f5ff41b7.js.map": "/Superheroes/static/js/main.f5ff41b7.js.map",
+    "787.779bf328.chunk.js.map": "/Superheroes/static/js/787.779bf328.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.f5ff41b7.js"
+  ]
+}
